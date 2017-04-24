@@ -1,16 +1,19 @@
 
 package tech.sk8.wpsdk.model;
 
-import java.io.Serializable;
-import java.util.List;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.os.Parcelable.Creator;
+
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
+
 import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 import org.apache.commons.lang.builder.ToStringBuilder;
+
+import java.io.Serializable;
+import java.util.List;
 
 public class WPBlog implements Serializable, Parcelable
 {
