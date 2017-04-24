@@ -22,7 +22,7 @@ This is an alpha version of the SDK, and is **NOT** recommended to be used in pr
 
 1. [Milestones](doc/milestones.md)
 1. [Progress](doc/progress.md)
-1. [Documentation](docs/README.md)
+1. [Documentation](doc/README.md)
 
 A more comprehensive REST API documentation can be found at [WordPress.org Handbook](https://developer.wordpress.org/rest-api/)
 
